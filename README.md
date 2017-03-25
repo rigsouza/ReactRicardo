@@ -27,4 +27,4 @@ Tendo os softwares supracitados instalados e o projeto armazenado em um reposit�
 
 O programa será executado e será aberta tela contendo as tarefas em aberto e as tarefas finalizadas.
 Junto com o parte de tarefas em aberto, existe a possibilidade de inserção de novas tarefas. Basta digitar o nome da mesma e clicar em post.
-Para que uma tarefa sejá finalizada, basta marcar a tarefa pretendida em tarefas em aberto e clicar em finalizar.
+Para que uma tarefa sejá finalizada, basta marcá-la e clicar em finalizar.
